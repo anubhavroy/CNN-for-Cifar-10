@@ -15,5 +15,6 @@ By changing hyperparameters of CNN, we achieve 92% accuracy on training set and 
 
 step 
 1. Download the data-set and substitute its location for the training and testing data in the code. 
-2. Install the necessary python packages.
-3. When training finishes, we have to just execute the main function to get the prediction results. 
+2. Specify the location of the model to save weights values
+3. Install the necessary python packages.
+4. When training finishes, we have to just execute the main function to get the prediction results. 
